@@ -15,5 +15,7 @@ public class HanoiRhymer extends defaultCountingOutRhymer {
 			super.countIn(in);
 	}
 
-	/*	In Eclipse you can use alt+ <- or -> to move between places you were	*/
+	/*
+	In Eclipse you can use alt+ <- or -> to move between places you were
+		*/
 }
